@@ -20,3 +20,16 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.table-body , .table-area {
+  width: 80vw;
+margin-bottom: 5%;}
+
+th {
+  border: 1px solid black;
+}
+
+td {
+  height: 50px;
+  border: 1px solid black;
+}
